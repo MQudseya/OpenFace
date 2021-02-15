@@ -73,7 +73,7 @@ std::vector<std::string> get_arguments(int argc, char **argv)
 
 int main(int argc, char **argv)
 {
-
+	//commit test 
 	std::vector<std::string> arguments = get_arguments(argc, argv);
 
 	// no arguments: output usage
